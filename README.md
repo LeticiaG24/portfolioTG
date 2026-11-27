@@ -10,7 +10,7 @@ Ainda não possuo experiência profissional na área, mas, graças à metodologi
 
 ## Contatos
 
-* [GIT](https://github.com/LeticiaG24)
+* [GitHub](https://github.com/LeticiaG24)
 * [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-furtado-053b6033a/)
 * [E-mail](mailto:leticia24062006@gmail.com)
 
@@ -77,7 +77,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 ### Segundo Semestre (2025-2)
 
-O projeto do segundo semestre teve como empresa parceira a Youtan, solicitado pela FATEC São José dos Campos. [Complete com a área de atuação da Youtan.]
+O projeto do segundo semestre teve como empresa parceira a Youtan, que atua na área de tecnologia, com foco no desenvolvimento de softwares e em soluções de IoT e Inteligência Artificial.
 
 O problema apresentado consistia na necessidade de apoiar empresas na gestão e no acompanhamento do crescimento profissional de seus colaboradores por meio do PDI (Plano de Desenvolvimento Individual).
 
@@ -118,7 +118,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 ### Terceiro Semestre (2026-1)
 
-O projeto do terceiro semestre teve como empresa parceira a DM Card. [Complete com a área de atuação: crédito.]
+O projeto do terceiro semestre teve como empresa parceira a DM Card, empresa do setor financeiro, especializada em soluções de crédito e meios de pagamento.
 
 O problema apresentado consistia na necessidade de expandir a concessão de crédito de forma sustentável, evitando regiões com alto risco de inadimplência e identificando locais com maior potencial econômico. Os dados do Sistema Financeiro Nacional, como os do Banco Central, são complexos e dispersos, o que dificulta a análise rápida para a tomada de decisão.
 
@@ -159,7 +159,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 ### Quarto Semestre (2026-2)
 
-O projeto do quarto semestre teve como empresa parceira a PRO4TECH. [Complete com a área de atuação da empresa.]
+O projeto do quarto semestre teve como empresa parceira a PRO4TECH, que atua na área de consultoria em transformação digital e Inteligência Artificial.
 
 O problema apresentado consistia em centralizar e organizar o conhecimento produzido durante projetos de software (decisões, problemas encontrados, soluções adotadas e experiências anteriores), que costuma ficar disperso e deixar de ser aproveitado por Product Owners em novos projetos e backlogs.
 

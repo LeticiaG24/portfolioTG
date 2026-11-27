@@ -69,7 +69,9 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Este projeto representou minha primeira experiência com programação. [Descreva uma situação real: qual foi o desafio, qual soft skill você usou e qual foi o resultado.]
+**Adaptabilidade e aprendizado contínuo:** Por se tratar da minha primeira experiência com programação, precisei me adaptar a um ambiente completamente novo, sem conhecimentos prévios na área. Ao longo do projeto, enfrentei desafios relacionados ao aprendizado das tecnologias e à compreensão do processo de desenvolvimento, buscando constantemente novos conhecimentos para contribuir com a equipe.
+
+**Comunicação e proatividade:** Durante o andamento do projeto, percebi que a sprint havia começado sem que o Product Owner tivesse finalizado o backlog. Embora a equipe ainda não tivesse identificado o impacto dessa situação no cronograma, comuniquei o problema aos demais integrantes, permitindo que nos organizássemos para resolver a pendência e evitar maiores atrasos no desenvolvimento.
 
 ---
 
@@ -108,7 +110,9 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Um dos principais desafios foi aprender e aplicar o padrão MVC no contexto do JavaFX, o que exigiu compreender com clareza a separação de responsabilidades entre Model, View e Controller. Além disso, trabalhar com um cliente real exigiu comunicação, alinhamento de expectativas e adaptação a mudanças de requisitos ao longo das sprints. [Se possível, acrescente um exemplo específico: uma mudança de requisito, como você reagiu e qual foi o resultado.]
+**Atenção aos detalhes e pensamento crítico:** Durante o planejamento e a organização das tarefas, identifiquei inconsistências que poderiam comprometer o andamento do projeto. Entre elas, percebi que o protótipo apresentava campos de informações que não estavam previstos no banco de dados, que uma tarefa marcada como concluída ainda possuía pendências e que a implementação de um controller estava sendo cobrada antes da conclusão de sua dependência, a view. Ao identificar essas situações, contribuí para que a equipe revisasse as tarefas e alinhassse melhor o planejamento com as necessidades reais do desenvolvimento.
+
+**Persistência e adaptabilidade:** Neste projeto, tivemos contato com Java e com o padrão arquitetural MVC, representando um desafio em relação à experiência anterior com Python. Mesmo diante da dificuldade inicial de adaptação à nova linguagem e à sua estrutura, mantive a dedicação ao aprendizado, buscando compreender os conceitos e aplicá-los durante o desenvolvimento.
 
 ---
 
@@ -147,7 +151,9 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Precisei lidar com um domínio que eu ainda não conhecia: o mercado de crédito. Por meio de pesquisa e dedicação, compreendi o contexto e consegui transmitir as informações de forma clara à equipe, que também não tinha conhecimento na área, permitindo que todos entendessem os objetivos e os direcionamentos do projeto.
+**Aprendizado autônomo e adaptabilidade:** Durante o projeto, precisei trabalhar com um domínio que ainda não conhecia: o mercado de crédito. Como nenhum integrante da equipe possuía familiaridade com o assunto, busquei compreender seu funcionamento por meio de pesquisas e estudos independentes. Essa iniciativa permitiu que eu desenvolvesse uma visão mais clara sobre o problema que estávamos solucionando e os requisitos da aplicação.
+
+**Comunicação e compartilhamento de conhecimento:** Após compreender melhor o contexto do mercado de crédito, compartilhei as informações e os conceitos que havia aprendido com os demais integrantes. Consegui traduzir um assunto desconhecido para a equipe em explicações mais acessíveis, contribuindo para que todos compreendessem o propósito do projeto e pudessem tomar decisões mais alinhadas ao problema proposto.
 
 ---
 
@@ -188,4 +194,6 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Utilizei criatividade e pensamento centrado no usuário: coloquei-me no lugar de quem usaria a aplicação para planejar interfaces intuitivas e funcionalidades que resolvessem os problemas do cliente. Sugeri funcionalidades que agradaram o cliente. [Se possível, cite uma funcionalidade específica que você propôs e como o cliente reagiu.]
+**Criatividade e pensamento centrado no usuário:** Durante o desenvolvimento do sistema, busquei compreender as dificuldades enfrentadas pelo cliente para propor funcionalidades que realmente agregassem valor à sua rotina. Um dos problemas relatados era a dificuldade em criar backlogs padronizados. A partir disso, propus uma interface dividida entre o backlog e um chat com inteligência artificial, permitindo que o usuário solicitasse análises e feedbacks sobre o conteúdo enquanto construía o planejamento, além de receber sugestões de desenvolvedores para os PBIs. A proposta foi bem recebida e elogiada pelo cliente, por facilitar o processo e otimizar o trabalho.
+
+**Visão estratégica e resolução de problemas:** Ao compreender que o cliente não pretendia substituir o Azure DevOps, identifiquei um possível problema na utilização simultânea de duas ferramentas: a necessidade de manter informações atualizadas em ambos os sistemas, o que poderia gerar retrabalho e dificultar a manutenção dos backlogs. Antecipando essa dificuldade, propus a implementação de uma funcionalidade de exportação dos backlogs para o Azure DevOps. A ideia foi incorporada ao projeto por meio da integração com a API da plataforma, permitindo que o sistema complementasse a ferramenta já utilizada pelo cliente, em vez de substituí-la.

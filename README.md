@@ -10,9 +10,9 @@ Ainda não possuo experiência profissional na área, mas, graças à metodologi
 
 ## Contatos
 
-* [GIT](https://github.com/SEU-USUARIO)
-* [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL/)
-* [E-mail](mailto:seuemail@exemplo.com)
+* [GIT](https://github.com/LeticiaG24)
+* [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-furtado-053b6033a/)
+* [E-mail](mailto:leticia24062006@gmail.com)
 
 ## Meus Principais Conhecimentos
 
@@ -26,6 +26,7 @@ Gosto de unir o planejamento de produto ao desenvolvimento, atuando tanto no bac
 * Docker
 * HTML
 * CSS
+* Node.js
 
 ## Meus Projetos
 
@@ -37,7 +38,7 @@ O problema apresentado consistia na necessidade de um sistema web para registrar
 
 Como solução, minha equipe desenvolveu o SIRAAS (Sistema de Registro de Atestados e Avaliação Scrum), um sistema web com cadastro, consulta e gestão de atestados, páginas para docentes, estatísticas de afastamento e cadastro dos membros Scrum.
 
-[GIT](https://github.com/SEU-USUARIO/REPOSITORIO-SIRAAS)
+[GIT](https://github.com/Gabrielle0905/SIRAAS)
 
 #### Tecnologias Utilizadas
 
@@ -60,11 +61,11 @@ Nesse projeto atuei como desenvolvedora. Desenvolvi o HTML e o CSS da página do
 
 Exercitei as seguintes hard skills durante esse projeto:
 
-* HTML5 - [escolha: ouvi falar / uso com ajuda / uso com autonomia / consigo ensinar];
-* CSS3 - [escolha o nível];
-* Python - [escolha o nível];
-* Flask - [escolha o nível];
-* Astah - [escolha o nível].
+* HTML5 - consigo ensinar
+* CSS3 - consigo ensinar
+* Python - uso com autonomia
+* Flask - uso com ajuda
+* Astah - uso com ajuda
 
 #### Soft Skills
 
@@ -80,7 +81,7 @@ O problema apresentado consistia na necessidade de apoiar empresas na gestão e 
 
 Como solução, minha equipe desenvolveu o Sphera, uma plataforma que permite registrar, acompanhar e analisar PDIs, disponibilizando relatórios e indicadores para gestores de área e RH, auxiliando decisões estratégicas e o alinhamento entre objetivos individuais e corporativos.
 
-[GIT](https://github.com/SEU-USUARIO/REPOSITORIO-SPHERA)
+[GIT](https://github.com/Minerva2025/Minerva)
 
 #### Tecnologias Utilizadas
 
@@ -100,10 +101,10 @@ Nesse projeto atuei como desenvolvedora. Implementei a geração de relatórios 
 
 Exercitei as seguintes hard skills durante esse projeto:
 
-* Java - [escolha o nível];
-* JavaFX - [escolha o nível];
-* MySQL - [escolha o nível];
-* iText - [escolha o nível].
+* Java - uso com autonomia
+* JavaFX - uso com autonomia
+* MySQL - consigo ensinar
+* iText - uso com autonomia
 
 #### Soft Skills
 
@@ -119,7 +120,7 @@ O problema apresentado consistia na necessidade de expandir a concessão de cré
 
 Como solução, minha equipe desenvolveu uma plataforma de inteligência de dados que analisa dados de crédito do Banco Central, identifica regiões com baixo risco de inadimplência, avalia o potencial de crescimento de crédito e gera gráficos e rankings das regiões mais promissoras para apoiar analistas financeiros.
 
-[GIT](https://github.com/SEU-USUARIO/REPOSITORIO-DMCARD)
+[GIT](https://github.com/TeamMinerva/DM-API)
 
 #### Tecnologias Utilizadas
 
@@ -128,9 +129,9 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * Node.js e Express - Back-end e criação das rotas de busca de dados;
 * PostgreSQL - Banco de dados;
 * React e Tailwind CSS - Front-end da plataforma;
-* Python - [informe onde foi utilizado, ex.: tratamento dos dados];
+* Python - Tratamento dos dados;
 * JavaScript - Linguagem do front-end e do back-end;
-* Docker - [informe onde foi utilizado, ex.: containerização dos serviços].
+* Docker - Containerização dos serviços;
 
 #### Contribuições Pessoais
 
@@ -140,9 +141,9 @@ Nesse projeto atuei como Product Owner. Fui responsável pela comunicação com 
 
 Exercitei as seguintes hard skills durante esse projeto:
 
-* Express / Node.js - [escolha o nível];
-* PostgreSQL - [escolha o nível];
-* Gestão de backlog (Scrum) - [escolha o nível].
+* Express / Node.js - uso com autonomia
+* PostgreSQL - uso com ajuda
+* Gestão de backlog (Scrum) - faço com autonomia
 
 #### Soft Skills
 
@@ -158,7 +159,7 @@ O problema apresentado consistia em centralizar e organizar o conhecimento produ
 
 Como solução, minha equipe desenvolveu uma aplicação com base de conhecimento e chats com Inteligência Artificial que apoiam o PO na análise e na elaboração de projetos e backlogs, identificando informações relevantes, relações com projetos anteriores, inconsistências e oportunidades de melhoria, sem substituir a decisão do PO.
 
-[GIT](https://github.com/SEU-USUARIO/REPOSITORIO-PRO4TECH)
+[GIT](https://github.com/TeamMinerva/PRO4TECH-API)
 
 #### Tecnologias Utilizadas
 
@@ -168,9 +169,9 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * React e TypeScript - Front-end;
 * Tailwind CSS - Estilização das telas;
 * PostgreSQL - Banco de dados;
-* LightRAG - [informe onde foi utilizado, ex.: recuperação de conhecimento para a IA];
-* Ollama - [informe onde foi utilizado, ex.: execução dos modelos de IA];
-* Docker - [informe onde foi utilizado].
+* LightRAG - Recuperação de conhecimento para a IA;
+* Ollama - Execução dos modelos de IA;
+* Docker - Containerização dos serviços.
 
 #### Contribuições Pessoais
 
@@ -180,10 +181,10 @@ Nesse projeto atuei como Product Owner. Mantive contato com o cliente para enten
 
 Exercitei as seguintes hard skills durante esse projeto:
 
-* FastAPI - [escolha o nível];
-* React / TypeScript - [escolha o nível];
-* PostgreSQL - [escolha o nível];
-* Integração com serviços de IA - [escolha o nível].
+* FastAPI - uso com autonomia
+* React / TypeScript - uso com autonomia
+* PostgreSQL - uso com ajuda
+* Integração com serviços de IA - faço com ajuda
 
 #### Soft Skills
 

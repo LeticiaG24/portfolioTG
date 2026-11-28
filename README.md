@@ -1,8 +1,6 @@
-# portfolioTG
-
 # Letícia Furtado
 
-![Letícia Furtado](/Image/foto.png?raw=true)
+<img align="left" src="" alt="my-profile" width="260"/>
 
 Meu nome é Letícia Furtado e tenho 20 anos. O que me trouxe ao curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos foi meu interesse por lógica e tecnologia, além do incentivo de conhecidos que trabalham na área.
 

@@ -6,7 +6,7 @@ Meu nome é Letícia Furtado e tenho 20 anos. O que me trouxe ao curso de Análi
 
 Ainda não possuo experiência profissional na área, mas, graças à metodologia de Aprendizagem por Projetos Integrados, tive contato com empresas parceiras reais ao longo do curso e atuei tanto como desenvolvedora quanto como Product Owner em projetos Scrum.
 
-<div style="clear: both;"></div>
+<br clear="all"/>
 
 ## Contatos
 
